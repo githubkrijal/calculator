@@ -3,7 +3,8 @@ from tkinter import *
 root = Tk()
 root.title("Calculator")
 
-display_bar = Label(root, text = "", width = 15, borderwidth=15, relief = SUNKEN, bg = "black", fg = "cyan", font = ("Times New Roman", 30))
+display_bar = Label(root, text = "", width = 15, borderwidth=15, relief = SUNKEN, bg = "black", fg = "cyan",
+                    font = ("Times New Roman", 30))
 display_bar.grid(row = 0, column = 0, columnspan = 4, padx = 10, pady = 10)
 root.config(bg = "black")
 
