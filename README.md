@@ -14,3 +14,5 @@ This is a simple calculator that I have made using python. I have used tkinter l
 - percentage
 - Decimal
 - Multiple operations
+- <h2 align="left">You can learn more about my calculalor from this link</h2>
+- https://youtu.be/DgBsJX9a7lA
